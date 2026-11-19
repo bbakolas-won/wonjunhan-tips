@@ -1,0 +1,4 @@
+{
+  "_안내": "게시를 승인한 수강 후기만 reviews 배열에 넣습니다. rating 1~5, approved=false면 숨김.",
+  "reviews": []
+}
